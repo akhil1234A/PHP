@@ -14,7 +14,7 @@
 <label>Date of Birth</label> <input type="date" name="date"><br>
 <label>Phone Number: </label><input type="number" name="phone"><br>
 <label>Address:</label> <br> <textarea name="address"></textarea><br>
-<input type="submit" value="touch"/ name="submit">
+<input type="submit" value="touch"name="submit"/>
 
 </form>
 
