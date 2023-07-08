@@ -1,3 +1,6 @@
+
+//sample code to learn insertion in php 
+
 <?php
 require "config.php";
 if(isset($_POST['submit']))
